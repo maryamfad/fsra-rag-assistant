@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.ruff_cache/
+# Downloaded FSRA documents are fetched by the ingestion script, not committed.
+data/
